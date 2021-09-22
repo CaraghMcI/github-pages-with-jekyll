@@ -1,1 +1,3 @@
-This blog is for the use of myself and my GMT group 
+ 
+title: "Welcome to my GMT blog"
+date: 2021-09-22
