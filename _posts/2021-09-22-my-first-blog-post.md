@@ -1,4 +1,5 @@
- ---
-title: "Welcome to my GMT blog"
-date: 2021-09-22
 ---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
+
